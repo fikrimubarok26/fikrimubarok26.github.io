@@ -1,0 +1,39 @@
+.text-abu{
+    color:#757575;
+}
+.text-navbar{
+    font-size:18px;
+}
+.text-heading-content{
+    font-size:35px;
+}
+.roboto-300{
+    font-family: 'Roboto', sans-serif;
+    font-weight:300;
+}
+.roboto-400{
+    font-family: 'Roboto', sans-serif;
+    font-weight:400;
+}
+.roboto-500{
+    font-family: 'Roboto', sans-serif;
+    font-weight:500;
+}
+.roboto-700{
+    font-family: 'Roboto', sans-serif;
+    font-weight:700;
+}
+
+.text-size-sub-content{
+    font-size:18px;
+}
+
+.text-merah{
+    color:#ed1c24;
+}
+.margin-kolom-2{
+    margin-left:100px;
+}
+.text-footer{
+    font-size:20px;
+}
